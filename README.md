@@ -34,7 +34,9 @@ The game includes a **menu system**, **real-time gameplay**, and **high-score tr
 - Push buttons connected to Arduino digital pins with pull-down logic
 - Powered via USB
 
-> 📷 Circuit diagram included in the repository.
+- The following diagram shows the complete hardware connections between the Arduino Uno, LCD display, and push buttons.
+
+![Arduino Racing Game Circuit Diagram](circuit_diagram.png)
 
 ---
 
